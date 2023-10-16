@@ -5,9 +5,9 @@ understanding of various technologies and concepts through intensive work and re
 
 Full Stack Developer:
 
-__Fronted__: HTML, CSS, JavaScript, TailwincCSS, React, Redux
+__Frontend__: HTML, CSS, JavaScript, TailwincCSS, React, Redux
 
-__Backedn__: Node.js, Express, MongoDB, MySQL
+__Backend__: Node.js, Express, MongoDB, MySQL
 
 <!--
 **IgorStojadinovic/IgorStojadinovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
