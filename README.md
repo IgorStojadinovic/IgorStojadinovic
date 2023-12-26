@@ -5,7 +5,7 @@ understanding of various technologies and concepts through intensive work and re
 
 Full Stack Developer:
 
-__Frontend__: HTML, CSS, JavaScript, TailwincCSS, React, Redux
+__Frontend__: HTML, CSS, JavaScript, Tailwind-CSS, React, Redux
 
 __Backend__: Node.js, Express, MongoDB, MySQL
 
