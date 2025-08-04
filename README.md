@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I'm Igor, and I am very dedicated to developing software solutions.Although I am not formally educated in IT field, I independently gained a deep
-understanding of various technologies and concepts through intensive work and research.
-
 __Frontend__: HTML, CSS, JavaScript, Tailwind-CSS, React,Next.js, Redux
 
 __Backend__ : Node.js,Express,MySQL / MongoDB
