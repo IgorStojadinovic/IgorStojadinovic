@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-__Frontend__: HTML, CSS, JavaScript, Tailwind-CSS, React,Next.js, Redux
-
-__Backend__ : Node.js,Express,MySQL / MongoDB
 <!--
 **IgorStojadinovic/IgorStojadinovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
